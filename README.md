@@ -7,35 +7,41 @@ Multiple Sorting Algorithms: Includes Merge, Selection, Heap, Quick, and Bubble 
 Step-by-Step Visualization: Allows users to follow each step of the sorting process.
 Custom Array Input: Input your own array to visualize the sorting algorithms.
 
-## Installation
-To run the Sorting Visualizer locally, follow these steps:
 
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/NIYAZ04/SortingVisualizer.git
-Navigate to the Directory:
-bash
-Copy code
-cd SortingVisualizer
-Open the Project:
+### Cloning the Project
 
-Open index.html in your preferred browser.
+1. **Clone via HTTPS:**
+   - Open your terminal.
+   - Use the `git clone` command followed by the repository's URL.
+     ```
+     git clone https://github.com/NIYAZ04/SortingVisualizer
+     ```
+2. **Clone via SSH (if you have SSH set up):**
+   - Use the SSH URL of the repository.
+     ```
+     git clone git@github.com:your-username/your-repository.git
+     ```
+3. **Open the Project:**
+   - Navigate into the cloned directory.
+     ```
+     cd your-repository
+     ```
+4. **Explore!**
+   - Once inside, you'll find the various folders and files pertaining to different algorithms.
+
+Feel free to clone the repository using either HTTPS or SSH based on your GitHub setup. Happy exploring!
 
 ## Contributing
 We welcome contributions to enhance the Sorting Visualizer project! To contribute:
 
 Fork the repository.
 Create your feature branch: git checkout -b feature/NewFeature.
-Commit your changes: git commit -m 'Add a new feature'.
-Push to the branch: git push origin feature/NewFeature.
-Open a pull request.
-Development
-The Sorting Visualizer is built using:
 
-HTML
-CSS
-JavaScript
+Commit your changes: git commit -m 'Add a new feature'.
+
+Push to the branch: git push origin feature/NewFeature.
+
+Open a pull request.
 
 
 Contact
